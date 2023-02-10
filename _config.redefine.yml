@@ -45,8 +45,8 @@ style:
   first_screen:
     enable: true
     background_image:
-      light: http://qoriginal.vip:19333/files/background_light.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
-      dark: http://qoriginal.vip:19333/files/background_black.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      light: /background_light.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      dark: /background_black.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
     title_color:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
