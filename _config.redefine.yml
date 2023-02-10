@@ -50,7 +50,7 @@ style:
     title_color:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
-    description: <h3>Quantum Original</h3><p>做点有意义的事情</p> # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
+    description: "<h2 style='margin-block-end: 0;'>Quantum Original</h2><p style='margin-block-start: 0; font-size: 0.5em;'>做点有意义的事情</p> # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
 
   # Scroll style settings
   scroll:
