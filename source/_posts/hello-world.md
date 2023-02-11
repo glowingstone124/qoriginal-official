@@ -15,29 +15,37 @@ title: Quantum Original入服指南
 ```
 即可登录
 
+### 2.查看服务器tps
+嘿，服务器好像卡顿了！如果您遇到突如其来的卡顿现象，请您输入
+```bash
+/tabtps toggle bossbar
+```
+来查看服务器tps,mspt和内存占用，再输入一次即可关闭。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### 查看服务器地图
+贴心的腐竹为您提供了不必入服即可查看服务器地图的小工具  -- bluemap
+工具地址： qoriginal.vip:2333
+这是一个可以在网页上查看玩家位置和服务器地图的工具，您可以用它来寻找一些特殊建筑。
 
-### Run server
+### 4.本服其他指令
 
 ```bash
-$ hexo server
+/plugins 查看插件列表
+/w 私聊
 ```
+（没了，这就是原版的魅力）
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-```bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-```bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+## 玩家事项
+本服搭载了先进的Anti-Cheat系统和玩家行为记录插件，如果您的物品被盗，请私聊群主，并附上您丢失物品容器的坐标，方便腐竹和管理前往查看。
+如果您被玩家侮辱谩骂，同样可以找群主和管理，核实之后将会对其实施封禁。
+关于服内的一些处罚：
+### 永久封禁：
+包括但不限于 卡服，恶意pvp，人身攻击其他玩家，盗窃且情节严重，摧毁他人建筑/装置且服务器无法快速恢复 （如果您攻击本服务器，您需要负法律责任）
+### 暂时封禁：
+包括但不限于 轻微的卡服，轻微人身攻击其他玩家，盗窃，摧毁他人建筑/装置，但服务器可以恢复
+### clear物品栏：
+以上所有行为的
+#### 较轻
+处罚
+暂时调为冒险模式：
+通常随着clear物品栏一同执行
