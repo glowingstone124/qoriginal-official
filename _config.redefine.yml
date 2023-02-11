@@ -19,7 +19,7 @@ style:
   avatar: /qo.png # avatar of the author
 
   # Favicon (You can use local image or image external link)
-  favicon: /server.jpg # favicon of the site
+  favicon: https://api.jcsuf.top/images/server.jpg # favicon of the site
 
   # Article image align position
   article_img_align: center # value: left | center
