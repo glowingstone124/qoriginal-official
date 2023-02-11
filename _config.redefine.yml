@@ -6,7 +6,7 @@ base_info:
   author: QOriginal Team # Author name
   url: https://blog.qoriginal.vip # Site url
   # Logo image (You can use local image, image external link or don’t fill)
-  logo_img: /server.jpg # logo image on the left of the navigation bar
+  logo_img: https://api.jcsuf.top/images/server.jpg # logo image on the left of the navigation bar
 
 # ---------------------------------------------------------------------------------------
 # Theme style settings
@@ -45,8 +45,8 @@ style:
   first_screen:
     enable: true
     background_image:
-      light: /background_light.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
-      dark: /background_black.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      light: https://api.jcsuf.top/images/background_light.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      dark: https://api.jcsuf.top/images/background_black.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
     title_color:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
