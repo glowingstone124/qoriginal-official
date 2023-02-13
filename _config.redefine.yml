@@ -83,7 +83,7 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
     path: https://www.rhymc.com/
     icon: fa-solid fa-server # can be empty
   Notices: 
-    path: /入服须知.md/
+    path: /2023/入服须知.md/
     icon: fa-regular fa-link
   # ...... # you can add more
 
