@@ -25,7 +25,7 @@ style:
   article_img_align: center # value: left | center
 
   # Right side width
-  right_side_width: 210px #sidebar width, for toc
+  right_side_width: 250px #sidebar width, for toc
 
   # Content area max width
   content_max_width: 1000px #content max width, for article
@@ -142,7 +142,7 @@ post:
 # ---------------------------------------------------------------------------------------
 code_block:
   copy: true # enable code copy button
-  style: mac # mac | simple
+  style: simple # mac | simple
 
 # ---------------------------------------------------------------------------------------
 # Table of Contents in the Sidebar
@@ -183,7 +183,7 @@ website_count:
 # See: https://github.com/theme-next/hexo-generator-searchdb
 # ---------------------------------------------------------------------------------------
 local_search:
-  enable: false
+  enable: true
   preload: true # Preload the search data when the page loads
 
 # ---------------------------------------------------------------------------------------
@@ -260,7 +260,7 @@ fontawesome: # select fontawesome versions you want to use, in order to reduce t
 footer:
   runtime: true # show website running time or not
   start_time: 2022/10/30 11:45:14 # the starting time of your website, format: yyyy/mm/dd hh:mm:ss
-  customize:  # customize footer message, can be html code
+  customize: (c)2022-2023 Quantum Original # customize footer message, can be html code
   icp: # ICP record number of your website, Can be null
 
 # ---------------------------------------------------------------------------------------
@@ -280,4 +280,4 @@ inject:
 # Please go to github to update the latest version frequently
 # Github: https://github.com/EvanNotFound/hexo-theme-redefine
 # ---------------------------------------------------------------------------------------
-version: 1.1.0
+version: 1.1.1
