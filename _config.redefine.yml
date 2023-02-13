@@ -6,7 +6,7 @@ base_info:
   author: QOriginal Team # Author name
   url: https://blog.qoriginal.vip # Site url
   # Logo image (You can use local image, image external link or don’t fill)
-  logo_img: https://api.jcsuf.top/images/server.jpg # logo image on the left of the navigation bar
+  logo_img: /img/qo.png # logo image on the left of the navigation bar
 
 # ---------------------------------------------------------------------------------------
 # Theme style settings
@@ -19,7 +19,7 @@ style:
   avatar: /qo.png # avatar of the author
 
   # Favicon (You can use local image or image external link)
-  favicon: https://api.jcsuf.top/images/server.jpg # favicon of the site
+  favicon: /img/server.jpg # favicon of the site
 
   # Article image align position
   article_img_align: center # value: left | center
@@ -45,8 +45,8 @@ style:
   first_screen:
     enable: true
     background_image:
-      light: https://api.jcsuf.top/images/background_light.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
-      dark: https://api.jcsuf.top/images/background_black.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      light: /img/background_light.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      dark: /img//background_black.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
     title_color:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
@@ -160,7 +160,7 @@ toc:
 # Post copyright info
 # ---------------------------------------------------------------------------------------
 copyright_info:
-  enable: true
+  enable: false
 
 # ---------------------------------------------------------------------------------------
 # Website count
