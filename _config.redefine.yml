@@ -92,7 +92,7 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
 custom_font: # custom font for the first screen
     enable: true
     font_family: apple # the font family name of the url below
-    font_url:  https://github.com/Dragon740f/qoriginal-hexo/blob/master/%E8%8B%B9%E6%96%B9%E5%AD%97%E4%BD%93.ttf # The url to the font file
+    font_url: /img/applefont.ttf # The url to the font file
 # ---------------------------------------------------------------------------------------
 # Home page article block display settings
 # ---------------------------------------------------------------------------------------
