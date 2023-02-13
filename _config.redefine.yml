@@ -13,7 +13,7 @@ base_info:
 # ---------------------------------------------------------------------------------------
 style:
   # Theme primary color
-  primary_color: "#005080"
+  primary_color: "#39C5BB"
 
   # Avatar (You can use local image or image external link)
   avatar: /img/qo.png # avatar of the author
@@ -32,14 +32,14 @@ style:
 
   #navigation bar background color (from left to right)
   nav_color: 
-    left: "#f78736" #left side 
-    right: "#367df7"  #right side
+    left: "#66CCFF" #left side 
+    right: "#99DD00"  #right side
     transparency: 35 #percent (10-99)
 
   # Mouse hover
   hover:
     shadow: true # shadow effect when the mouse hover
-    scale: false # scale effect when the mouse hover
+    scale: true # scale effect when the mouse hover
 
   # First screen
   first_screen:
