@@ -95,13 +95,12 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
   #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
   #     Blog: https://www.evanluo.top
   #     Friends: /friends
-  # Links: 
-  #   icon: fa-regular fa-link
-  #   submenus:
-  #     Link1: /link1
-  #     Link2: /link2
-  #     Link3: /link3
-
+   Notices: 
+     icon: fa-regular fa-link
+     submenus:
+     入服必读: /入服须知.md
+     等待添加: /
+     等待添加: /
   # ...... # you can add more
 
 
