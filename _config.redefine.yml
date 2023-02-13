@@ -51,6 +51,11 @@ style:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
     description: "<h2 style='margin-block-end: 0;'>Quantum Original</h2><p style='margin-block-start: 0; font-size: 0.5em;'>做点有意义的事情</p>" # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
+    custom_font: # custom font for the first screen
+      enable: true
+      font_family: default # the font family name of the url below
+      font_url: http://qoriginal.vip:19333/files/applefont.ttf # The url to the font file
+
 
   # Scroll style settings
   scroll:
@@ -89,10 +94,7 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
     path: http://qoriginal.vip:19333/files/zfb.jpg
     icon: fa-solid fa-money-bill
   # ...... # you can add more
-custom_font: # custom font for the first screen
-    enable: true
-    font_family: default # the font family name of the url below
-    font_url: http://qoriginal.vip:19333/files/applefont.ttf # The url to the font file
+
 # ---------------------------------------------------------------------------------------
 # Home page article block display settings
 # ---------------------------------------------------------------------------------------
