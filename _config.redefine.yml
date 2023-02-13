@@ -46,7 +46,7 @@ style:
     enable: true
     background_image:
       light: /img/background_light.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
-      dark: /img//background_black.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
+      dark: /img/background_black.png # background image of the first screen, use relative path or external link (if your website is in subdirectory, use external link)
     title_color:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
