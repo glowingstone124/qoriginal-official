@@ -28,7 +28,7 @@ style:
   right_side_width: 250px #sidebar width, for toc
 
   # Content area max width
-  content_max_width: 1000px #content max width, for article
+  content_max_width: 1200px #content max width, for article
 
   #navigation bar background color (from left to right)
   nav_color: 
@@ -57,7 +57,7 @@ style:
     progress_bar: # reading progress bar
       enable: true 
     percent: # reading progress percent
-      enable: false
+      enable: true
 
 # ---------------------------------------------------------------------------------------
 # Social contact link
