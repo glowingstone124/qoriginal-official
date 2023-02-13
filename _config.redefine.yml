@@ -82,22 +82,9 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
   Server Provider: 
     path: https://www.rhymc.com/
     icon: fa-solid fa-server # can be empty
-  # Archives: 
-  #   path: /archives 
-  #   icon: fa-regular fa-archive # can be empty
-  # Status: 
-  #   path: https://status.evanluo.top/
-  #   icon: fa-regular fa-chart-bar
-  # About: 
-  #   icon: fa-regular fa-user
-  #   submenus:
-  #     Me: /about
-  #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
-  #     Blog: https://www.evanluo.top
-  #     Friends: /friends
-   Notices: 
-     icon: fa-regular fa-link
-     submenus:
+  Notices: 
+    icon: fa-regular fa-link
+    submenus:
      入服必读: /入服须知.md
      等待添加: /
      等待添加: /
