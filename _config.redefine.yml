@@ -16,10 +16,10 @@ style:
   primary_color: "#39C5BB"
 
   # Avatar (You can use local image or image external link)
-  avatar: /img/qo.png # avatar of the author
+  avatar: /img/IMG_20230224_162945.jpg # avatar of the author
 
   # Favicon (You can use local image or image external link)
-  favicon: /img/server.jpg # favicon of the site
+  favicon: /img/IMG_20230224_162945.jpg # favicon of the site
 
   # Article image align position
   article_img_align: center # value: left | center
@@ -51,10 +51,10 @@ style:
       light: "#fff" # first screen title color (light mode)
       dark: "#d1d1b6" # first screen title color (dark mode)
     description: "<h2 style='margin-block-end: 0;'>Quantum Original</h2><p style='margin-block-start: 0; font-size: 0.5em;'>做点有意义的事情</p>" # the title in the middle of the first screen. HTML supported (e.g. svg html code of your logo)
-    custom_font: # custom font for the first screen
-      enable: true
-      font_family: default # the font family name of the url below
-      font_url: http://qoriginal.vip:19333/files/applefont.ttf # The url to the font file
+  custom_font: # custom font for the first screen
+    enable: true
+    font_family: default # the font family name of the url below
+    font_url: http://qoriginal.vip:19333/files/applefont.ttf # The url to the font file
 
 
   # Scroll style settings
