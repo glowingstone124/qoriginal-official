@@ -91,7 +91,7 @@ menu: #you can customize, i18n files are in the theme's languages folder. fa-reg
     path: https://blog.qoriginal.vip/2023/%E5%85%A5%E6%9C%8D%E9%A1%BB%E7%9F%A5/
     icon: fa-regular fa-link
   打赏页面: 
-    path: http://qoriginal.vip:19333/files/zfb.jpg
+    path: https://afdian.net/a/glowingstone
     icon: fa-solid fa-money-bill
   # ...... # you can add more
 
@@ -239,7 +239,7 @@ pjax:
 # Fontawesome
 # ---------------------------------------------------------------------------------------
 fontawesome: # select fontawesome versions you want to use, in order to reduce the loading time, select as few as possible
-  thin: false # use fontawesome thin version or not
+  thin: true # use fontawesome thin version or not
   light: false # use fontawesome light version or not
   duotone: false # use fontawesome duotone version or not
 
